@@ -1,4 +1,4 @@
-; A Scroll
+; pre-init extra space
 goto init
 or r0, r0 ; No op
 or r0, r0
